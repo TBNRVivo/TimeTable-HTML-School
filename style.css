@@ -1,0 +1,25 @@
+.time {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  font-size: 50px;
+}
+
+table {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  color: rgb(255, 94, 0);
+}
+
+a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-decoration: none;
+  color: rgba(0, 195, 255, 0.808);
+  font-size: 25px;
+}
